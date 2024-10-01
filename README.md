@@ -10,4 +10,13 @@ Debido a circunstancias fuera de mi control, no logré llevarmelo al eclipse, si
 
 Se puede ver el registro del resultado inicial en el siguiente enlace: https://youtu.be/GpBGEwss3ks?si=ywxJeHo9g7Vb4Uuu
 
-## 
+Actualmente me encuentro completando el desarrollo y producción del proyecto, pues ha sido seleccionado, junto con muchos otros proyectos, para presentarse en el festival Transmisiones Aurales, organizado por la Facultad de Música de la UNAM. Tendré un espacio de 15 minutos para presentarlo, pero me gustaría completarlo por motivos personales.
+
+## Alcances
+Me gustaría que este proyecto represente una gúia de cómo usar herramientas de Inteligencia Artificial para impulsar la creatividad, para lograrlo, compartiré mi proceso en este repositorio y todos los archivos y herramientas generadas. Deseo mantener la característica Open Source del Jam inicial.
+
+## Mecánica
+Se usó la ayuda de Chat GPT para seleccionar la escala de las notas bajo un concepto muy general, a partir de ahí se realizó la improvisación. A continuación se muestra el prompt y el resultado.
+
+[Detalle de la Conversación]()
+
